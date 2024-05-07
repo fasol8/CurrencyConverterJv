@@ -36,5 +36,3 @@ String API_KEY = "tu_clave_api";
 - Este programa solo admite las siguientes divisas: MXN, USD, EUR, BRL, COP, PEN.
 
 ---
-
-Si necesitas más detalles o ajustes, házmelo saber.
