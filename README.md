@@ -2,7 +2,7 @@
 
 Este es un simple convertidor de divisas que utiliza la API de ExchangeRate-API para obtener tasas de cambio en tiempo real.
 
-<img src="URL_DE_LA_IMAGEN" alt="Captura de pantalla del convertidor de divisas">
+<img src="https://github.com/fasol8/CurrencyConverterJv/blob/master/image/captura_pantalla.png" alt="Captura de pantalla del convertidor de divisas">
 
 ## Requisitos
 
